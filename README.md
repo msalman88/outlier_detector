@@ -5,7 +5,7 @@ In this project, a simple outlier detection is built using simple moving average
 The dataset is taken from https://www.kaggle.com/c/avazu-ctr-prediction. 
 
 ## Objective
-We would like to identify the outlier for Click Through Rate (CTR) if they exist.
+We would like to identify the outliers for time series data if they exist using simple moving average.
 
 ## Features
 
